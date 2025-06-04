@@ -1,5 +1,5 @@
 ;---------------------------------------------------
-; Programa: Soma  com input
+; Programa: Soma  com input e output
 ; Autor: Arthur de Souza
 ; Data: 04.06.2025
 ;---------------------------------------------------
